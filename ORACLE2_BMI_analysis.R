@@ -2,10 +2,10 @@
 # ORACLE2 BMI Analysis – Publication Script
 #
 # Figures produced:
-#   Figure 2  : LungFunction_BMI_violin_trend  (violin + ANOVA trend p)
-#   Figure 1  : ACQ_fig1_adj_FVC_imputed       (ACQ means + item heatmap, FVC-adjusted)
+#   Figure 1  : Figure_3_v3                    (T2 biomarker 3×3 grid by BMI, p-badges)
+#   Figure 2  : ACQ_fig1_adj_FVC_imputed       (ACQ means + item heatmap, FVC-adjusted)
+#   Figure 3  : LungFunction_BMI_violin_trend  (violin + ANOVA trend p)
 #   Figure 4  : RCS_ASAAR_FVC_final            (RCS spline + nadir + strip, FVC-adjusted)
-#   Figure 3  : Figure_3_v3                    (T2 biomarker 3×3 grid by BMI, p-badges)
 #
 # Supplement figures:
 #   S1  : BMI ~ FeNO / BEC correlations
